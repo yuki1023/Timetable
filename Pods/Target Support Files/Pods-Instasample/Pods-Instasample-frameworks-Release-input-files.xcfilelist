@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Instasample/Pods-Instasample-frameworks.sh
+${BUILT_PRODUCTS_DIR}/NCMB/NCMB.framework
+${BUILT_PRODUCTS_DIR}/NYXImagesKit/NYXImagesKit.framework
+${BUILT_PRODUCTS_DIR}/SVProgressHUD/SVProgressHUD.framework
